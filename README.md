@@ -1,11 +1,11 @@
 # EDA-and-Hypothesis-Testing-for-Insurance-Cost-Prediction
 
 For the Insurance Cost Prediction project, EDA will involve visualizing distributions, identifying outliers, and exploring correlations between different variables like age, diabetes status, weight, and premium costs. This analysis aims to unearth significant predictors of insurance costs and understand the demographic and health-related characteristics that most influence premium pricing.
-Hypothesis testing will be used to formally test assumptions such as:
 
-    * Are premium costs significantly higher for smokers compared to non-smokers?
-    * Does the presence of chronic diseases lead to higher insurance premiums?
-    * Is there a significant difference in premium costs based on the number of major surgeries a person has had?
+Hypothesis testing will be used to formally test assumptions such as:
+      * Are premium costs significantly higher for smokers compared to non-smokers?
+      * Does the presence of chronic diseases lead to higher insurance premiums?
+      * Is there a significant difference in premium costs based on the number of major surgeries a person has had?
 
 These statistical tests will help validate whether the observed patterns in the data are statistically significant or occur by chance, thereby reinforcing the robustness of subsequent predictive modeling.
 
